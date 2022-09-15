@@ -1,0 +1,16 @@
+.long-text {
+  height: 1000px;
+  background-color: gray;
+}
+
+.page-heading {
+  margin-top: 70px;
+}
+
+.navbar {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
